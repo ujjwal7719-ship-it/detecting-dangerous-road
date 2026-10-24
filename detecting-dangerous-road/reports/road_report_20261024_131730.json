@@ -1,0 +1,13 @@
+{
+    "project": "RoadEye AI",
+    "report_id": "20261024_131730",
+    "created_at": "2026-10-24T13:17:30.347857+05:30",
+    "model": "gemma3:4b",
+    "location": "main gate",
+    "additional_notes": "",
+    "image_filename": "Screenshot 2026-10-24 113556.png",
+    "preliminary_risk_level": "HIGH",
+    "analysis": "The image shows a section of asphalt road with significant damage. There is a pronounced longitudinal crack running through the center of the view, filled with shattered glass and debris. Surrounding the crack, the pavement is heavily deteriorated with numerous potholes and displaced aggregates. There appears to be some surface erosion along the edges of the crack, although it is difficult to assess the extent due to the broken pavement. The overall appearance suggests substantial and widespread road degradation. Due to the fragmented nature of the pavement and limited perspective, precise damage quantification is impossible.\n\nRISK: HIGH",
+    "suggested_next_step": "Possible significant damage is indicated. Avoid approaching the suspected hazard when possible and report the location to the relevant road authority for prompt inspection.",
+    "disclaimer": "AI-generated preliminary visual screening only. Not a verified diagnosis or road safety certification."
+}

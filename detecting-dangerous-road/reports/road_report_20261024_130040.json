@@ -1,0 +1,13 @@
+{
+    "project": "RoadEye AI",
+    "report_id": "20261024_130040",
+    "created_at": "2026-10-24T13:00:40.421934+05:30",
+    "model": "gemma3:4b",
+    "location": "main gate road , faridabad",
+    "additional_notes": "",
+    "image_filename": "Screenshot 2026-10-24 113556.png",
+    "preliminary_risk_level": "HIGH",
+    "analysis": "The image shows a severely damaged asphalt road surface. There is a significant crack running along the center of the view, filled with broken glass and small rocks. The edges of the road appear to be significantly degraded with loose gravel and scattered debris. There are larger, raised rocks protruding from the edges of the damaged area. The overall appearance suggests substantial surface distress and potential for further deterioration. It is difficult to assess the depth of the crack or the extent of the damage to the surrounding pavement due to the broken glass and limited perspective.\n\nRISK: HIGH",
+    "suggested_next_step": "Possible significant damage is indicated. Avoid approaching the suspected hazard when possible and report the location to the relevant road authority for prompt inspection.",
+    "disclaimer": "AI-generated preliminary visual screening only. Not a verified diagnosis or road safety certification."
+}
